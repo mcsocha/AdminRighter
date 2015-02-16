@@ -1,0 +1,13 @@
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\bin\Debug\AdminRighter.exe.config
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\bin\Debug\AdminRighter.exe
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\bin\Debug\AdminRighter.pdb
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\obj\Debug\AdminRighter.csprojResolveAssemblyReference.cache
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\obj\Debug\AdminRighter.MainForm.resources
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\obj\Debug\AdminRighter.Properties.Resources.resources
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\obj\Debug\AdminRighter.csproj.GenerateResource.Cache
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\obj\Debug\AdminRighter.exe
+C:\Users\msocha\Desktop\AdminRighter\AdminRighter\obj\Debug\AdminRighter.pdb
+C:\Users\msocha\Documents\Visual Studio 2013\Projects\AdminRighter\AdminRighter\bin\Debug\AdminRighter.exe.config
+C:\Users\msocha\Documents\Visual Studio 2013\Projects\AdminRighter\AdminRighter\obj\Debug\AdminRighter.exe
+C:\Users\msocha\Documents\Visual Studio 2013\Projects\AdminRighter\AdminRighter\obj\Debug\AdminRighter.pdb
+C:\Users\msocha\Documents\Visual Studio 2013\Projects\AdminRighter\AdminRighter\bin\AdminRighter.exe.config
